@@ -20,4 +20,4 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThicoMoura&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thyorc&show_icons=true)
